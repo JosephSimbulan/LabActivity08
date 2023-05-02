@@ -1,0 +1,17 @@
+{
+    "name": "LanceDabu/ccs06-login-reg",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joseph Derick B. Simbulan",
+            "email": "simbulan.Josephderick@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
