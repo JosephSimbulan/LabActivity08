@@ -1,5 +1,5 @@
 {
-    "name": "LanceDabu/ccs06-login-reg",
+    "name": "JosephDerickSimbulan/ccs06-login-reg",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
